@@ -105,7 +105,7 @@ indicators, the following were implemented:
 Apple_Nasdaq_Trading_Analysis/
 
 ├── notebooks/         
-│   └── term_assignment (6).ipynb  
+│   └── Apple_Nasdaq_Trading_Analysis.ipynb  
 ├── README.md              
 ├── LICENSE                
 ├── requirements.txt       
